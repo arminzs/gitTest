@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(230);
+  background(0);
  
   
   paperObject.display();
